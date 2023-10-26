@@ -1,0 +1,118 @@
+2023-09-27T07:21:49+00:00 CRITICAL syntax error, unexpected end of file in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/front-page.php on line 194
+
+2023-09-27T09:49:46+00:00 CRITICAL Uncaught Error: Failed opening required 'library/multi-post-thumbnails.php' (include_path='.:/usr/share/php') in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:151
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-settings.php(600): include()
+#1 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#2 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(22): require_once('...')
+#4 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 151
+
+2023-09-27T09:49:49+00:00 CRITICAL Uncaught Error: Failed opening required 'library/multi-post-thumbnails.php' (include_path='.:/usr/share/php') in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:151
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-settings.php(600): include()
+#1 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#2 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-admin/admin.php(34): require_once('...')
+#4 /var/www/html/wp_Halmoni/wp-admin/post.php(12): require_once('...')
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 151
+
+2023-09-27T09:51:28+00:00 CRITICAL Uncaught Error: Failed opening required 'library/multi-post-thumbnails.php' (include_path='.:/usr/share/php') in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:151
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-settings.php(600): include()
+#1 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#2 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(22): require_once('...')
+#4 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 151
+
+2023-09-27T09:58:44+00:00 CRITICAL Uncaught Error: Failed opening required 'library/multi-post-thumbnails.php' (include_path='.:/usr/share/php') in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:151
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-settings.php(600): include()
+#1 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#2 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-admin/admin.php(34): require_once('...')
+#4 /var/www/html/wp_Halmoni/wp-admin/post.php(12): require_once('...')
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 151
+
+2023-09-27T11:08:28+00:00 CRITICAL Uncaught Error: Call to undefined function kdmfi_the_featured_image() in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/front-page.php:50
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/wp_Halmoni/wp-blog-header.php(19): require_once('...')
+#2 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#3 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/front-page.php on line 50
+
+2023-09-27T11:08:42+00:00 CRITICAL Uncaught Error: Call to undefined function kdmfi_the_featured_image() in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/front-page.php:50
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/wp_Halmoni/wp-blog-header.php(19): require_once('...')
+#2 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#3 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/front-page.php on line 50
+
+2023-09-27T11:19:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /var/www/html/wp_Halmoni/wp-includes/query.php on line 942
+
+2023-09-27T11:21:21+00:00 CRITICAL Uncaught Error: Call to undefined function have_about_us() in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/front-page.php:76
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/wp_Halmoni/wp-blog-header.php(19): require_once('...')
+#2 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#3 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/front-page.php on line 76
+
+2023-09-27T11:26:58+00:00 CRITICAL Uncaught Error: Call to undefined function have_about_us() in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/front-page.php:76
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/wp_Halmoni/wp-blog-header.php(19): require_once('...')
+#2 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#3 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/front-page.php on line 76
+
+2023-09-27T11:45:28+00:00 CRITICAL Uncaught Error: Call to undefined function have_about_us() in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/front-page.php:73
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/wp_Halmoni/wp-blog-header.php(19): require_once('...')
+#2 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#3 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/front-page.php on line 73
+
+2023-09-27T11:47:53+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /var/www/html/wp_Halmoni/wp-includes/post.php on line 1035
+
+2023-09-27T11:48:58+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /var/www/html/wp_Halmoni/wp-includes/class-wpdb.php on line 1644
+
+2023-09-27T11:50:09+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /var/www/html/wp_Halmoni/wp-includes/formatting.php on line 4690
+
+2023-09-27T11:50:59+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /var/www/html/wp_Halmoni/wp-includes/kses.php on line 1735
+
+2023-09-27T11:51:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /var/www/html/wp_Halmoni/wp-includes/post.php on line 2516
+
+2023-09-27T11:51:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /var/www/html/wp_Halmoni/wp-includes/class-wp-query.php on line 4846
+
+2023-09-27T13:59:03+00:00 CRITICAL Uncaught Error: Call to undefined function get_product_header_part() in /var/www/html/wp_Halmoni/wp-content/plugins/woocommerce/templates/archive-product.php:21
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/wp_Halmoni/wp-blog-header.php(19): require_once('...')
+#2 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#3 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/plugins/woocommerce/templates/archive-product.php on line 21
+
+2023-09-27T13:59:10+00:00 CRITICAL Uncaught Error: Call to undefined function get_product_header_part() in /var/www/html/wp_Halmoni/wp-content/plugins/woocommerce/templates/archive-product.php:21
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/wp_Halmoni/wp-blog-header.php(19): require_once('...')
+#2 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#3 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/plugins/woocommerce/templates/archive-product.php on line 21
+
+2023-09-27T14:01:56+00:00 CRITICAL Uncaught Error: Call to undefined function required() in /var/www/html/wp_Halmoni/wp-content/plugins/woocommerce/templates/archive-product.php:21
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/wp_Halmoni/wp-blog-header.php(19): require_once('...')
+#2 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#3 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/plugins/woocommerce/templates/archive-product.php on line 21
+

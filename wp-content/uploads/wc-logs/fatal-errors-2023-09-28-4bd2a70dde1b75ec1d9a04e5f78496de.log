@@ -1,0 +1,175 @@
+2023-09-28T06:00:32+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:177
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-settings.php(600): include()
+#1 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#2 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(22): require_once('...')
+#4 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 177
+
+2023-09-28T06:00:39+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:177
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-settings.php(600): include()
+#1 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#2 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-blog-header.php(13): require_once('...')
+#4 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 177
+
+2023-09-28T06:01:23+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:177
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-settings.php(600): include()
+#1 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#2 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-blog-header.php(13): require_once('...')
+#4 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 177
+
+2023-09-28T06:01:26+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:177
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-settings.php(600): include()
+#1 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#2 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-blog-header.php(13): require_once('...')
+#4 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 177
+
+2023-09-28T06:01:26+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:177
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-settings.php(600): include()
+#1 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#2 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-blog-header.php(13): require_once('...')
+#4 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 177
+
+2023-09-28T06:01:26+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:177
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-settings.php(600): include()
+#1 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#2 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-blog-header.php(13): require_once('...')
+#4 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 177
+
+2023-09-28T06:01:32+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:177
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-settings.php(600): include()
+#1 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#2 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(22): require_once('...')
+#4 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 177
+
+2023-09-28T06:01:48+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:177
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-settings.php(600): include()
+#1 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#2 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-blog-header.php(13): require_once('...')
+#4 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 177
+
+2023-09-28T06:02:12+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:177
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-settings.php(600): include()
+#1 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#2 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-blog-header.php(13): require_once('...')
+#4 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 177
+
+2023-09-28T06:25:04+00:00 CRITICAL syntax error, unexpected identifier "banner", expecting "," or ";" in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 174
+
+2023-09-28T06:50:05+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WP_Widget::__construct(), 0 passed in /var/www/html/wp_Halmoni/wp-includes/class-wp-widget-factory.php on line 62 and at least 2 expected in /var/www/html/wp_Halmoni/wp-includes/class-wp-widget.php:163
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-widget-factory.php(62): WP_Widget->__construct()
+#1 /var/www/html/wp_Halmoni/wp-includes/widgets.php(115): WP_Widget_Factory->register()
+#2 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php(189): register_widget()
+#3 /var/www/html/wp_Halmoni/wp-settings.php(600): include('...')
+#4 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#5 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#6 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(22): require_once('...')
+#7 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-includes/class-wp-widget.php on line 163
+
+2023-09-28T06:51:06+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WP_Widget::__construct(), 0 passed in /var/www/html/wp_Halmoni/wp-includes/class-wp-widget-factory.php on line 62 and at least 2 expected in /var/www/html/wp_Halmoni/wp-includes/class-wp-widget.php:163
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-widget-factory.php(62): WP_Widget->__construct()
+#1 /var/www/html/wp_Halmoni/wp-includes/widgets.php(115): WP_Widget_Factory->register()
+#2 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php(189): register_widget()
+#3 /var/www/html/wp_Halmoni/wp-settings.php(600): include('...')
+#4 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#5 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#6 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(22): require_once('...')
+#7 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-includes/class-wp-widget.php on line 163
+
+2023-09-28T06:53:07+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WP_Widget::__construct(), 0 passed in /var/www/html/wp_Halmoni/wp-includes/class-wp-widget-factory.php on line 62 and at least 2 expected in /var/www/html/wp_Halmoni/wp-includes/class-wp-widget.php:163
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-widget-factory.php(62): WP_Widget->__construct()
+#1 /var/www/html/wp_Halmoni/wp-includes/widgets.php(115): WP_Widget_Factory->register()
+#2 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php(189): register_widget()
+#3 /var/www/html/wp_Halmoni/wp-settings.php(600): include('...')
+#4 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#5 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#6 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(22): require_once('...')
+#7 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-includes/class-wp-widget.php on line 163
+
+2023-09-28T06:54:36+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WP_Widget::__construct(), 0 passed in /var/www/html/wp_Halmoni/wp-includes/class-wp-widget-factory.php on line 62 and at least 2 expected in /var/www/html/wp_Halmoni/wp-includes/class-wp-widget.php:163
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-widget-factory.php(62): WP_Widget->__construct()
+#1 /var/www/html/wp_Halmoni/wp-includes/widgets.php(115): WP_Widget_Factory->register()
+#2 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php(189): register_widget()
+#3 /var/www/html/wp_Halmoni/wp-settings.php(600): include('...')
+#4 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#5 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#6 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(22): require_once('...')
+#7 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-includes/class-wp-widget.php on line 163
+
+2023-09-28T06:54:50+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WP_Widget::__construct(), 0 passed in /var/www/html/wp_Halmoni/wp-includes/class-wp-widget-factory.php on line 62 and at least 2 expected in /var/www/html/wp_Halmoni/wp-includes/class-wp-widget.php:163
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-widget-factory.php(62): WP_Widget->__construct()
+#1 /var/www/html/wp_Halmoni/wp-includes/widgets.php(115): WP_Widget_Factory->register()
+#2 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php(189): register_widget()
+#3 /var/www/html/wp_Halmoni/wp-settings.php(600): include('...')
+#4 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#5 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#6 /var/www/html/wp_Halmoni/wp-blog-header.php(13): require_once('...')
+#7 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#8 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-includes/class-wp-widget.php on line 163
+
+2023-09-28T09:44:06+00:00 CRITICAL Cannot redeclare wc_get_products() (previously declared in /var/www/html/wp_Halmoni/wp-content/plugins/woocommerce/includes/wc-product-functions.php:31) in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 177
+
+2023-09-28T09:44:18+00:00 CRITICAL Cannot redeclare wc_get_products() (previously declared in /var/www/html/wp_Halmoni/wp-content/plugins/woocommerce/includes/wc-product-functions.php:31) in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 177
+
+2023-09-28T09:45:13+00:00 CRITICAL Cannot redeclare wc_get_products() (previously declared in /var/www/html/wp_Halmoni/wp-content/plugins/woocommerce/includes/wc-product-functions.php:31) in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/products.php on line 154
+
+2023-09-28T10:40:03+00:00 CRITICAL syntax error, unexpected token "(", expecting variable or "{" or "$" in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 262
+
+2023-09-28T10:44:05+00:00 CRITICAL syntax error, unexpected token "(", expecting variable or "{" or "$" in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 427
+
+2023-09-28T10:44:21+00:00 CRITICAL syntax error, unexpected token "(", expecting variable or "{" or "$" in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 427
+
+2023-09-28T10:44:25+00:00 CRITICAL syntax error, unexpected token "(", expecting variable or "{" or "$" in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 427
+
+2023-09-28T10:44:27+00:00 CRITICAL syntax error, unexpected token "(", expecting variable or "{" or "$" in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 427
+
+2023-09-28T12:04:58+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on null in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/products.php:146
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/wp_Halmoni/wp-blog-header.php(19): require_once('...')
+#2 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#3 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/products.php on line 146
+

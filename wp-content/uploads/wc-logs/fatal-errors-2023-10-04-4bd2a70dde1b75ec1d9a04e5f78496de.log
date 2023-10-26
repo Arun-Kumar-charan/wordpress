@@ -1,0 +1,188 @@
+2023-10-04T05:47:48+00:00 CRITICAL Unmatched '}' in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 362
+
+2023-10-04T08:02:39+00:00 CRITICAL Unclosed '{' on line 630 in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 636
+
+2023-10-04T08:04:39+00:00 CRITICAL Unclosed '{' on line 630 in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 636
+
+2023-10-04T08:06:39+00:00 CRITICAL Unclosed '{' on line 630 in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 636
+
+2023-10-04T08:08:39+00:00 CRITICAL Unclosed '{' on line 630 in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 636
+
+2023-10-04T09:47:43+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_template_loop_add_to_cart() in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:548
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-settings.php(600): include()
+#1 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#2 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-blog-header.php(13): require_once('...')
+#4 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 548
+
+2023-10-04T09:47:46+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_template_loop_add_to_cart() in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:548
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-settings.php(600): include()
+#1 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#2 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-blog-header.php(13): require_once('...')
+#4 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 548
+
+2023-10-04T09:47:48+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_template_loop_add_to_cart() in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:548
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-settings.php(600): include()
+#1 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#2 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(22): require_once('...')
+#4 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 548
+
+2023-10-04T09:47:51+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_template_loop_add_to_cart() in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:548
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-settings.php(600): include()
+#1 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#2 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-blog-header.php(13): require_once('...')
+#4 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 548
+
+2023-10-04T09:48:16+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_template_loop_add_to_cart() in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:548
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-settings.php(600): include()
+#1 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#2 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-blog-header.php(13): require_once('...')
+#4 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 548
+
+2023-10-04T09:48:17+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_template_loop_add_to_cart() in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:548
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-settings.php(600): include()
+#1 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#2 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-blog-header.php(13): require_once('...')
+#4 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 548
+
+2023-10-04T09:48:17+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_template_loop_add_to_cart() in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:548
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-settings.php(600): include()
+#1 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#2 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-blog-header.php(13): require_once('...')
+#4 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 548
+
+2023-10-04T09:48:18+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_template_loop_add_to_cart() in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:548
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-settings.php(600): include()
+#1 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#2 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-blog-header.php(13): require_once('...')
+#4 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 548
+
+2023-10-04T09:48:22+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_template_loop_add_to_cart() in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:548
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-settings.php(600): include()
+#1 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#2 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-blog-header.php(13): require_once('...')
+#4 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 548
+
+2023-10-04T09:53:25+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_template_loop_add_to_cart() in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:549
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-settings.php(600): include()
+#1 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#2 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-blog-header.php(13): require_once('...')
+#4 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 549
+
+2023-10-04T09:53:27+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_template_loop_add_to_cart() in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:549
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-settings.php(600): include()
+#1 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#2 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-blog-header.php(13): require_once('...')
+#4 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 549
+
+2023-10-04T09:53:51+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_template_loop_add_to_cart() in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:549
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-settings.php(600): include()
+#1 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#2 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(22): require_once('...')
+#4 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 549
+
+2023-10-04T09:55:38+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_template_loop_add_to_cart() in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:549
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-settings.php(600): include()
+#1 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#2 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-blog-header.php(13): require_once('...')
+#4 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 549
+
+2023-10-04T09:55:39+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_template_loop_add_to_cart() in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:549
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-settings.php(600): include()
+#1 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#2 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-blog-header.php(13): require_once('...')
+#4 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 549
+
+2023-10-04T09:55:39+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_template_loop_add_to_cart() in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:549
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-settings.php(600): include()
+#1 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#2 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-blog-header.php(13): require_once('...')
+#4 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 549
+
+2023-10-04T09:55:40+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_template_loop_add_to_cart() in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:549
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-settings.php(600): include()
+#1 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#2 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-blog-header.php(13): require_once('...')
+#4 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 549
+
+2023-10-04T09:55:40+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_template_loop_add_to_cart() in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:549
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-settings.php(600): include()
+#1 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#2 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-blog-header.php(13): require_once('...')
+#4 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 549
+
+2023-10-04T09:55:41+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_template_loop_add_to_cart() in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:549
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-settings.php(600): include()
+#1 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#2 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-blog-header.php(13): require_once('...')
+#4 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 549
+

@@ -1,0 +1,38 @@
+/*
+Theme Name: Drive Rite
+Requires PHP: 7.4
+Project Type: Web App
+Project Framework: WordPress
+Site URL (Optional): 
+Basecamp URL: 
+Author: Shanu Dey
+Version:1.0
+*/
+
+/* ===================pagenation active=============================== */
+.pagination a {
+    padding: 8px 12px;
+    margin: 0 2px;
+    border: 1px solid #ccc;
+    text-decoration: none;
+    color: #333;
+}
+
+.pagination a.active {
+    background-color: #0073e6;
+    color: #fff;
+    border: 1px solid #0073e6;
+}
+
+li.page-item.next {
+    border-radius: 0 !important;
+    border: 1px solid rgba(0, 9, 9,1);
+}
+li.page-item.prev {
+    border-radius: 0 !important;
+    border: 1px solid rgba(0, 9, 9,1);
+}
+a.active {
+  color: black !important;
+        ;
+}

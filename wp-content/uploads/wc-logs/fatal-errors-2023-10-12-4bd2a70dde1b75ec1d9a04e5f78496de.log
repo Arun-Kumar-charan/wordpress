@@ -1,0 +1,4 @@
+2023-10-12T06:11:00+00:00 CRITICAL Cannot redeclare load_more_posts() (previously declared in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:304) in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 759
+
+2023-10-12T06:13:00+00:00 CRITICAL Cannot redeclare load_more_posts() (previously declared in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:304) in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 759
+

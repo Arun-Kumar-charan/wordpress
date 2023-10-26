@@ -1,0 +1,38 @@
+2023-10-17T06:54:15+00:00 CRITICAL Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, null given in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:723
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php(723): mysqli_fetch_assoc()
+#1 /var/www/html/wp_Halmoni/wp-settings.php(600): include('...')
+#2 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#4 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(22): require_once('...')
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 723
+
+2023-10-17T06:55:45+00:00 CRITICAL Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, null given in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:723
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php(723): mysqli_fetch_assoc()
+#1 /var/www/html/wp_Halmoni/wp-settings.php(600): include('...')
+#2 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#4 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(22): require_once('...')
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 723
+
+2023-10-17T06:56:46+00:00 CRITICAL Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, null given in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:723
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php(723): mysqli_fetch_assoc()
+#1 /var/www/html/wp_Halmoni/wp-settings.php(600): include('...')
+#2 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#3 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#4 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(22): require_once('...')
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 723
+
+2023-10-17T10:38:57+00:00 CRITICAL syntax error, unexpected identifier "wp_reset_postdata", expecting ")" in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 486
+
+2023-10-17T10:40:57+00:00 CRITICAL syntax error, unexpected identifier "wp_reset_postdata", expecting ")" in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 486
+
+2023-10-17T10:42:58+00:00 CRITICAL syntax error, unexpected identifier "wp_reset_postdata", expecting ")" in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 486
+
+2023-10-17T10:44:59+00:00 CRITICAL syntax error, unexpected identifier "wp_reset_postdata", expecting ")" in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 486
+

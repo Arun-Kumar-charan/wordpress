@@ -1,0 +1,275 @@
+2023-10-10T05:39:36+00:00 CRITICAL syntax error, unexpected token "endwhile" in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 501
+
+2023-10-10T07:44:39+00:00 CRITICAL Uncaught Error: Undefined constant "console" in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:523
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): custom_load_more_ajax_handler()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(188): do_action()
+#4 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 523
+
+2023-10-10T07:44:44+00:00 CRITICAL Uncaught Error: Undefined constant "console" in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:523
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): custom_load_more_ajax_handler()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(188): do_action()
+#4 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 523
+
+2023-10-10T07:44:46+00:00 CRITICAL Uncaught Error: Undefined constant "console" in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:523
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): custom_load_more_ajax_handler()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(188): do_action()
+#4 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 523
+
+2023-10-10T07:44:47+00:00 CRITICAL Uncaught Error: Undefined constant "console" in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:523
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): custom_load_more_ajax_handler()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(188): do_action()
+#4 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 523
+
+2023-10-10T07:47:01+00:00 CRITICAL Uncaught Error: Undefined constant "console" in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:523
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): custom_load_more_ajax_handler()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(203): do_action()
+#4 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 523
+
+2023-10-10T07:47:03+00:00 CRITICAL Uncaught Error: Undefined constant "console" in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:523
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): custom_load_more_ajax_handler()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(203): do_action()
+#4 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 523
+
+2023-10-10T07:47:04+00:00 CRITICAL Uncaught Error: Undefined constant "console" in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:523
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): custom_load_more_ajax_handler()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(203): do_action()
+#4 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 523
+
+2023-10-10T07:58:20+00:00 CRITICAL Uncaught Error: Undefined constant "console" in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:523
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): custom_load_more_ajax_handler()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(203): do_action()
+#4 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 523
+
+2023-10-10T07:58:27+00:00 CRITICAL Uncaught Error: Undefined constant "console" in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:523
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): custom_load_more_ajax_handler()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(203): do_action()
+#4 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 523
+
+2023-10-10T07:58:28+00:00 CRITICAL Uncaught Error: Undefined constant "console" in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:523
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): custom_load_more_ajax_handler()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(203): do_action()
+#4 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 523
+
+2023-10-10T07:58:44+00:00 CRITICAL Uncaught Error: Undefined constant "console" in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:523
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): custom_load_more_ajax_handler()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(203): do_action()
+#4 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 523
+
+2023-10-10T07:58:51+00:00 CRITICAL Uncaught Error: Undefined constant "console" in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:523
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): custom_load_more_ajax_handler()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(203): do_action()
+#4 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 523
+
+2023-10-10T07:58:52+00:00 CRITICAL Uncaught Error: Undefined constant "console" in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:523
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): custom_load_more_ajax_handler()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(203): do_action()
+#4 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 523
+
+2023-10-10T07:58:53+00:00 CRITICAL Uncaught Error: Undefined constant "console" in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:523
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): custom_load_more_ajax_handler()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(203): do_action()
+#4 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 523
+
+2023-10-10T07:58:53+00:00 CRITICAL Uncaught Error: Undefined constant "console" in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:523
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): custom_load_more_ajax_handler()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(203): do_action()
+#4 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 523
+
+2023-10-10T07:58:54+00:00 CRITICAL Uncaught Error: Undefined constant "console" in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:523
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): custom_load_more_ajax_handler()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(203): do_action()
+#4 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 523
+
+2023-10-10T07:58:54+00:00 CRITICAL Uncaught Error: Undefined constant "console" in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:523
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): custom_load_more_ajax_handler()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(203): do_action()
+#4 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 523
+
+2023-10-10T10:29:30+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "hook_javascript" not found or invalid function name in /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /var/www/html/wp_Halmoni/wp-includes/general-template.php(3053): do_action()
+#3 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/header.php(10): wp_head()
+#4 /var/www/html/wp_Halmoni/wp-includes/template.php(785): require_once('...')
+#5 /var/www/html/wp_Halmoni/wp-includes/template.php(720): load_template()
+#6 /var/www/html/wp_Halmoni/wp-includes/general-template.php(48): locate_template()
+#7 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/recipes.php(3): get_header()
+#8 /var/www/html/wp_Halmoni/wp-includes/template-loader.php(106): include('...')
+#9 /var/www/html/wp_Halmoni/wp-blog-header.php(19): require_once('...')
+#10 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#11 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php on line 310
+
+2023-10-10T10:29:51+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "hook_javascript" not found or invalid function name in /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /var/www/html/wp_Halmoni/wp-includes/general-template.php(3053): do_action()
+#3 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/header.php(10): wp_head()
+#4 /var/www/html/wp_Halmoni/wp-includes/template.php(785): require_once('...')
+#5 /var/www/html/wp_Halmoni/wp-includes/template.php(720): load_template()
+#6 /var/www/html/wp_Halmoni/wp-includes/general-template.php(48): locate_template()
+#7 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/front-page.php(3): get_header()
+#8 /var/www/html/wp_Halmoni/wp-includes/template-loader.php(106): include('...')
+#9 /var/www/html/wp_Halmoni/wp-blog-header.php(19): require_once('...')
+#10 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#11 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php on line 310
+
+2023-10-10T10:29:51+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "hook_javascript" not found or invalid function name in /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /var/www/html/wp_Halmoni/wp-includes/general-template.php(3053): do_action()
+#3 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/header.php(10): wp_head()
+#4 /var/www/html/wp_Halmoni/wp-includes/template.php(785): require_once('...')
+#5 /var/www/html/wp_Halmoni/wp-includes/template.php(720): load_template()
+#6 /var/www/html/wp_Halmoni/wp-includes/general-template.php(48): locate_template()
+#7 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/404.php(1): get_header()
+#8 /var/www/html/wp_Halmoni/wp-includes/template-loader.php(106): include('...')
+#9 /var/www/html/wp_Halmoni/wp-blog-header.php(19): require_once('...')
+#10 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#11 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php on line 310
+
+2023-10-10T10:29:52+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "hook_javascript" not found or invalid function name in /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /var/www/html/wp_Halmoni/wp-includes/general-template.php(3053): do_action()
+#3 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/header.php(10): wp_head()
+#4 /var/www/html/wp_Halmoni/wp-includes/template.php(785): require_once('...')
+#5 /var/www/html/wp_Halmoni/wp-includes/template.php(720): load_template()
+#6 /var/www/html/wp_Halmoni/wp-includes/general-template.php(48): locate_template()
+#7 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/404.php(1): get_header()
+#8 /var/www/html/wp_Halmoni/wp-includes/template-loader.php(106): include('...')
+#9 /var/www/html/wp_Halmoni/wp-blog-header.php(19): require_once('...')
+#10 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#11 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php on line 310
+
+2023-10-10T10:30:00+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "hook_javascript" not found or invalid function name in /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /var/www/html/wp_Halmoni/wp-includes/general-template.php(3053): do_action()
+#3 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/header.php(10): wp_head()
+#4 /var/www/html/wp_Halmoni/wp-includes/template.php(785): require_once('...')
+#5 /var/www/html/wp_Halmoni/wp-includes/template.php(720): load_template()
+#6 /var/www/html/wp_Halmoni/wp-includes/general-template.php(48): locate_template()
+#7 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/front-page.php(3): get_header()
+#8 /var/www/html/wp_Halmoni/wp-includes/template-loader.php(106): include('...')
+#9 /var/www/html/wp_Halmoni/wp-blog-header.php(19): require_once('...')
+#10 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#11 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php on line 310
+
+2023-10-10T10:30:00+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "hook_javascript" not found or invalid function name in /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /var/www/html/wp_Halmoni/wp-includes/general-template.php(3053): do_action()
+#3 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/header.php(10): wp_head()
+#4 /var/www/html/wp_Halmoni/wp-includes/template.php(785): require_once('...')
+#5 /var/www/html/wp_Halmoni/wp-includes/template.php(720): load_template()
+#6 /var/www/html/wp_Halmoni/wp-includes/general-template.php(48): locate_template()
+#7 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/404.php(1): get_header()
+#8 /var/www/html/wp_Halmoni/wp-includes/template-loader.php(106): include('...')
+#9 /var/www/html/wp_Halmoni/wp-blog-header.php(19): require_once('...')
+#10 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#11 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php on line 310
+
+2023-10-10T13:20:03+00:00 CRITICAL Uncaught Error: Undefined constant "attachment" in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:665
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): alter_the_query()
+#1 /var/www/html/wp_Halmoni/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /var/www/html/wp_Halmoni/wp-includes/class-wp.php(389): apply_filters()
+#3 /var/www/html/wp_Halmoni/wp-includes/class-wp.php(779): WP->parse_request()
+#4 /var/www/html/wp_Halmoni/wp-includes/functions.php(1335): WP->main()
+#5 /var/www/html/wp_Halmoni/wp-blog-header.php(16): wp()
+#6 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#7 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 665
+
+2023-10-10T13:20:47+00:00 CRITICAL Uncaught Error: Undefined constant "attachment" in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:665
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): alter_the_query()
+#1 /var/www/html/wp_Halmoni/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /var/www/html/wp_Halmoni/wp-includes/class-wp.php(389): apply_filters()
+#3 /var/www/html/wp_Halmoni/wp-includes/class-wp.php(779): WP->parse_request()
+#4 /var/www/html/wp_Halmoni/wp-includes/functions.php(1335): WP->main()
+#5 /var/www/html/wp_Halmoni/wp-blog-header.php(16): wp()
+#6 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#7 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 665
+

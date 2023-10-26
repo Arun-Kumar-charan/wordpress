@@ -1,0 +1,244 @@
+2023-10-13T05:58:40+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "custom_post_types" not found or invalid function name in /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /var/www/html/wp_Halmoni/wp-settings.php(632): do_action()
+#3 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#4 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#5 /var/www/html/wp_Halmoni/wp-blog-header.php(13): require_once('...')
+#6 /var/www/html/wp_Halmoni/index.php(17): require('...')
+#7 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php on line 310
+
+2023-10-13T05:59:28+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "custom_post_types" not found or invalid function name in /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /var/www/html/wp_Halmoni/wp-settings.php(632): do_action()
+#3 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#4 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#5 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(22): require_once('...')
+#6 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php on line 310
+
+2023-10-13T05:59:29+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "custom_post_types" not found or invalid function name in /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /var/www/html/wp_Halmoni/wp-settings.php(632): do_action()
+#3 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#4 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#5 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(22): require_once('...')
+#6 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php on line 310
+
+2023-10-13T05:59:31+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "custom_post_types" not found or invalid function name in /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /var/www/html/wp_Halmoni/wp-settings.php(632): do_action()
+#3 /var/www/html/wp_Halmoni/wp-config.php(96): require_once('...')
+#4 /var/www/html/wp_Halmoni/wp-load.php(50): require_once('...')
+#5 /var/www/html/wp_Halmoni/wp-admin/admin.php(34): require_once('...')
+#6 /var/www/html/wp_Halmoni/wp-admin/post-new.php(10): require_once('...')
+#7 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php on line 310
+
+2023-10-13T06:53:35+00:00 CRITICAL syntax error, unexpected token ")", expecting variable or "{" or "$" in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 933
+
+2023-10-13T08:16:25+00:00 CRITICAL Unmatched '}' in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 1100
+
+2023-10-13T08:18:25+00:00 CRITICAL Unclosed '{' on line 875 in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 1052
+
+2023-10-13T09:35:47+00:00 CRITICAL syntax error, unexpected token "while" in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 922
+
+2023-10-13T09:59:24+00:00 CRITICAL Uncaught TypeError: array_merge(): Argument #2 must be of type array, string given in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:806
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php(806): array_merge()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): gallery_posts()
+#2 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(188): do_action()
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 806
+
+2023-10-13T10:00:46+00:00 CRITICAL Uncaught TypeError: array_merge(): Argument #2 must be of type array, string given in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:806
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php(806): array_merge()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): gallery_posts()
+#2 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(188): do_action()
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 806
+
+2023-10-13T10:01:39+00:00 CRITICAL Uncaught TypeError: array_merge(): Argument #2 must be of type array, string given in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:806
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php(806): array_merge()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): gallery_posts()
+#2 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(188): do_action()
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 806
+
+2023-10-13T10:03:09+00:00 CRITICAL Uncaught TypeError: array_merge(): Argument #2 must be of type array, string given in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:806
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php(806): array_merge()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): gallery_posts()
+#2 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(188): do_action()
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 806
+
+2023-10-13T10:04:35+00:00 CRITICAL Uncaught TypeError: array_merge(): Argument #2 must be of type array, string given in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:806
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php(806): array_merge()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): gallery_posts()
+#2 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(188): do_action()
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 806
+
+2023-10-13T10:09:27+00:00 CRITICAL Uncaught TypeError: array_merge(): Argument #2 must be of type array, string given in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:933
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php(933): array_merge()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): gallery_posts()
+#2 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(188): do_action()
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 933
+
+2023-10-13T10:11:43+00:00 CRITICAL Uncaught TypeError: array_merge(): Argument #1 must be of type array, null given in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:931
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php(931): array_merge()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): gallery_posts()
+#2 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(188): do_action()
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 931
+
+2023-10-13T10:15:45+00:00 CRITICAL Uncaught TypeError: array_merge(): Argument #2 must be of type array, string given in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:932
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php(932): array_merge()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): gallery_posts()
+#2 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(188): do_action()
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 932
+
+2023-10-13T10:19:44+00:00 CRITICAL Uncaught TypeError: array_merge(): Argument #1 must be of type array, string given in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:934
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php(934): array_merge()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): gallery_posts()
+#2 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(188): do_action()
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 934
+
+2023-10-13T10:20:19+00:00 CRITICAL Uncaught TypeError: array_merge(): Argument #1 must be of type array, string given in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:934
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php(934): array_merge()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): gallery_posts()
+#2 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(188): do_action()
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 934
+
+2023-10-13T10:20:53+00:00 CRITICAL Uncaught TypeError: array_merge(): Argument #1 must be of type array, string given in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:934
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php(934): array_merge()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): gallery_posts()
+#2 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(188): do_action()
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 934
+
+2023-10-13T10:23:23+00:00 CRITICAL Uncaught TypeError: array_merge(): Argument #1 must be of type array, string given in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:934
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php(934): array_merge()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): gallery_posts()
+#2 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(188): do_action()
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 934
+
+2023-10-13T10:25:12+00:00 CRITICAL Uncaught TypeError: array_merge(): Argument #1 must be of type array, string given in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:934
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php(934): array_merge()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): gallery_posts()
+#2 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(188): do_action()
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 934
+
+2023-10-13T10:28:34+00:00 CRITICAL Uncaught TypeError: array_merge(): Argument #2 must be of type array, string given in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:934
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php(934): array_merge()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): gallery_posts()
+#2 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(188): do_action()
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 934
+
+2023-10-13T10:29:12+00:00 CRITICAL Uncaught TypeError: array_merge(): Argument #2 must be of type array, string given in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:934
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php(934): array_merge()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): gallery_posts()
+#2 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(188): do_action()
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 934
+
+2023-10-13T10:40:27+00:00 CRITICAL Uncaught TypeError: array_merge(): Argument #2 must be of type array, string given in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:940
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php(940): array_merge()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): gallery_posts()
+#2 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(188): do_action()
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 940
+
+2023-10-13T10:53:08+00:00 CRITICAL Uncaught TypeError: array_merge(): Argument #2 must be of type array, string given in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:941
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php(941): array_merge()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): gallery_posts()
+#2 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(188): do_action()
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 941
+
+2023-10-13T10:54:38+00:00 CRITICAL Uncaught TypeError: array_merge(): Argument #2 must be of type array, string given in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:941
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php(941): array_merge()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): gallery_posts()
+#2 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(188): do_action()
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 941
+
+2023-10-13T10:57:12+00:00 CRITICAL Uncaught TypeError: array_merge(): Argument #2 must be of type array, string given in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php:936
+Stack trace:
+#0 /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php(936): array_merge()
+#1 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(310): gallery_posts()
+#2 /var/www/html/wp_Halmoni/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 /var/www/html/wp_Halmoni/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /var/www/html/wp_Halmoni/wp-admin/admin-ajax.php(188): do_action()
+#5 {main}
+  thrown in /var/www/html/wp_Halmoni/wp-content/themes/Halmoni/functions.php on line 936
+
